@@ -1,3 +1,4 @@
 title: Marney Pratt's Website
-logo: images/pratt_mc.JPG
+logo: 
+  small: images/pratt_mc.JPG
 remote_theme: pages-themes/minimal@v0.2.0
