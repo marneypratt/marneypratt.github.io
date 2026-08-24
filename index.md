@@ -2,11 +2,9 @@
 layout: default
 ---
 
-(Page created June 27, 2024, Last updated August 23, 2026)
-
 ### Marney Pratt is Senior Laboratory Instructor in Biological Sciences at Smith College in Northampton, MA.
 
-She has been teaching Course-based Undergraduate Research Experiences (CUREs) in lab courses at Smith since 2014.
+Dr. Pratt has been teaching Course-based Undergraduate Research Experiences (CUREs) in lab courses at Smith since 2014.
 
 ## Resources
 
@@ -21,3 +19,6 @@ A demonstration of how to use Quarto slides with a quiz function to give interac
 ### [Top Macroinvertebrates in the Mill River](top-macros)
 
 Results for Bio 131 Course looking at the top 15 most abundant macroinvertebrates collected from the Mill River from 2019-2025.
+
+
+(Page created June 27, 2024, Last updated August 23, 2026)
