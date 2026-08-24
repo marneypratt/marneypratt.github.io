@@ -6,7 +6,7 @@ layout: default
 
 ### Senior Laboratory Instructor in Biological Sciences at Smith College
 
-created June 27, 2024, Last updated March 24, 2026
+created June 27, 2024, Last updated August 23, 2026
 
 Dr. Marney Pratt is a Senior Laboratory Instructor in the Biological Sciences Department at Smith College in Northampton, MA. She has been teaching Course-based Undergraduate Research Experiences (CUREs) in lab courses at Smith since 2014.
 
