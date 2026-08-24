@@ -26,8 +26,6 @@ A demonstration of how to use Quarto slides with a quiz function to give interac
 
 Results for Bio 131 Course looking at the top 15 most abundant macroinvertebrates collected from the Mill River from 2019-2025.
 
-Testing
-
 
 
 

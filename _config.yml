@@ -1,3 +1,4 @@
 title: Marney Pratt's Website
-logo: /images/pratt_mc.JPG
 theme: jekyll-theme-minimal
+baseurl: "/marneypratt.github.io"
+logo: images/pratt_mc.JPG
