@@ -1,4 +1,5 @@
 title: Marney Pratt's Website
 theme: jekyll-theme-minimal
+url: 'https://marneypratt.github.io/' 
 baseurl: "/marneypratt.github.io"
 logo: images/pratt_mc.JPG
