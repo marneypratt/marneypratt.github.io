@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Marney Pratt
 ### Senior Laboratory Instructor in Biological Sciences at Smith College
 created June 27, 2024, Last updated March 24, 2026
