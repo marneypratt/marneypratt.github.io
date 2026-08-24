@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/images/pratt_mc.jpg" alt="Logo" width="200" style="display: block; margin-bottom: 20px;"/>
+<img src="./images/pratt_mc.JPG" alt="Logo" width="200" style="display: block; margin-bottom: 20px;"/>
 
 # Marney Pratt
 
