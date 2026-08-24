@@ -2,15 +2,13 @@
 layout: default
 ---
 
-# Marney Pratt
+(Page created June 27, 2024, Last updated August 23, 2026)
 
-### Senior Laboratory Instructor in Biological Sciences at Smith College
+### Marney Pratt is Senior Laboratory Instructor in Biological Sciences at Smith College in Northampton, MA.
 
-created June 27, 2024, Last updated August 23, 2026
+She has been teaching Course-based Undergraduate Research Experiences (CUREs) in lab courses at Smith since 2014.
 
-Dr. Marney Pratt is a Senior Laboratory Instructor in the Biological Sciences Department at Smith College in Northampton, MA. She has been teaching Course-based Undergraduate Research Experiences (CUREs) in lab courses at Smith since 2014.
-
-## Github Pages Websites
+## Resources
 
 ### [Intro to R for Biology Interactive Tutorials](r4bio-live)
 
